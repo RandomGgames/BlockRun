@@ -1,2 +1,2 @@
-# TNTRun
-This is the issue tracker for a minigame map called TNT Run. If you have never played classic TNT run, the idea is simple. A floor of sand or gravel would fall away as you ran accross it. The last person standing wins! Using commands and data packs only, I am attempting to recreate this minigame in modern version of the game with any block and multiple areas to play at once.
+# Block Run
+This is the issue tracker for a minigame map called Block Run. If you have never played classic TNT run, it was based off of that and the idea is simple. Classically, a floor of sand or gravel would fall away as you ran accross it and the last person on top would be the winner! Using commands and data packs only, I have recreate this minigame in modern version of the game with any block and multiple areas to play at once.
